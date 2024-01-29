@@ -25,7 +25,7 @@ jobs:
       run: npm install
 
     - name: Run CodeQL Scan
-      uses: github/codeql-action/analyze@v1
+      uses: github/codeql-action/analyze@v2
       with:
         languages: javascript
         database-dump: ${{ github.workspace }}/codeql-database
