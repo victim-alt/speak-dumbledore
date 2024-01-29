@@ -22,4 +22,6 @@ There you go !!!
 
 
 * <p> Please in case of any error or query mail us at 1716510115@kit.ac.in or you may discuss it in discussion panel above </p>
-* <p> In case of dependency issue use CLI: <b>npm audit fix --force</b>  
+* <p> In case of dependency issue use CLI: <b>npm audit fix --force</b> 
+
+Forked edit. 
